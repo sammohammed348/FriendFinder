@@ -11,5 +11,4 @@ export default function AboutSection() {
         Whether you're looking for a study buddy, a gym partner, or someone to grab coffee with, we make finding real friends simple, fun, and safe.
       </p>
     </section>
-  );
-}
+  
